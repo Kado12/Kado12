@@ -1,7 +1,7 @@
 # Hola, soy Gonzalo Sotelo 👋
 ### Ingeniero de Sistemas | Full Stack Developer | Especialista en EdTech & Automatización
 
-🚀 **Mira mi nuevo portafolio profesional:** [**gonzalosotelo.dev**](https://tu-dominio-vercel.com) *(Reemplaza con tu link real)*
+🚀 **Mira mi nuevo portafolio profesional:** [**gonzalosotelo.dev**](https://portfolio-gonzalo-blush.vercel.app/)
 
 ---
 
