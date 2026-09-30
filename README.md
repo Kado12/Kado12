@@ -53,8 +53,6 @@ Me apasiona transformar requerimientos complejos en arquitecturas limpias y efic
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kado12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kado12&theme=dark&hide_border=false" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kado12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </div>
 
